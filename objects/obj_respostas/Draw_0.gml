@@ -3,6 +3,8 @@ draw_set_valign(0);
 
 draw_set_font(fnt_tutorial);
 
+draw_set_colour(cor);
+
 var _marg = 3;
 
 var _x = x - sprite_width/2 + _marg;

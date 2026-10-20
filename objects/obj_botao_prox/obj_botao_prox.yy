@@ -41,8 +41,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_botao_prox",
-    "path":"sprites/spr_botao_prox/spr_botao_prox.yy",
+    "name":"spr_botao_prox_1",
+    "path":"sprites/spr_botao_prox_1/spr_botao_prox_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
